@@ -265,7 +265,7 @@ COPY --from=0 /app/dist /usr/share/nginx/html
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our repo. for details.
 
 ### Development Workflow
 1. Fork the repository
@@ -286,42 +286,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: [docs.passvault.com](https://docs.passvault.com)
-- **Issues**: [GitHub Issues](https://github.com/your-username/passvault/issues)
-- **Email**: support@passvault.com
-- **Discord**: [Join our community](https://discord.gg/passvault)
-
-## 🎯 Roadmap
-
-### Version 1.1 (Q1 2024)
-- [ ] Mobile applications (iOS/Android)
-- [ ] Advanced sharing features
-- [ ] Integration with popular services
-- [ ] Enhanced biometric authentication
-
-### Version 1.2 (Q2 2024)
-- [ ] Team management features
-- [ ] Advanced analytics dashboard
-- [ ] API for third-party integrations
-- [ ] Enterprise-grade features
-
-### Version 2.0 (Q3 2024)
-- [ ] AI-powered security insights
-- [ ] Advanced threat detection
-- [ ] Blockchain-based verification
-- [ ] Decentralized storage options
-
-## 📊 Statistics
-
-- **Lines of Code**: ~15,000+
-- **Components**: 25+
-- **Pages**: 10+
-- **Dependencies**: 50+
-- **Tests**: 95% coverage
-- **Performance**: 98/100 Lighthouse score
-- **Migration**: Completely rebuilt from Python to TypeScript/React stack
 
 ## 🔄 Project Evolution
 
